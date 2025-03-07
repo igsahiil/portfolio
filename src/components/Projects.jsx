@@ -7,7 +7,7 @@ const projects = [
     description: "A Front-end design of e-commerce website admin panel, using React Vite.",
     tech: ["React", "VITE","TAILWIND","AWS"],
     github: "https://github.com/igsahiil/reactSphear",
-    demo: "react-sphear-netlify.app",
+    demo: "react-sphear.netlify.app",
   },
   {
     title: "CHITCHAT",
@@ -21,7 +21,7 @@ const projects = [
     description: "Create a simple portfolio website using React Vite and Tailwind CSS.",
     tech: ["React", "VITE","TAILWIND"],
     github: "https://github.com/igsahiil/portfolio",
-    demo: "react-sphear-netlify.app",
+    demo: "https://main.d2jc1x93kny81i.amplifyapp.com",
   },
 ]
 
