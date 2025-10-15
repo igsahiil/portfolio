@@ -4,7 +4,7 @@ import { BsArrowRight } from 'react-icons/bs';
 
 const experiences = [
   {
-    title: "Full Stack Developer + DevOps Engineer",
+    title: "Sr. Full Stack Developer + DevOps Engineer",
     company: "iMaker Technologies Pvt Ltd",
     period: "March 2024 - Present",
     location: "Gandhinagar, Gujarat",
