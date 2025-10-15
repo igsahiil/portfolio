@@ -35,7 +35,7 @@ const socialLinks = [
   {
     icon: FiLinkedin,
     label: 'LinkedIn',
-    link: 'https://linkedin.com/in/sahil-parmar-aab013261',
+    link: 'https://www.linkedin.com/in/sahilsinh-parmar/',
   },
   {
     icon: IoLogoWhatsapp,
